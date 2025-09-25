@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfa-san
-- 👀 I’m interested in Economics and Data
-- 🌱 I’m currently learning SQL and Python
+- 👀 I’m interested Data Analysis
+- 🌱 I’m currently learning Excel VBA/Macros
 - 📫 Email me at alfa.jamessanchez@gmail.com
 - ⚡ Fun fact: I left the life of seafaring, and took a huge U-turn to study Economics at the University of San Carlos in the Philippines.
 <!---
