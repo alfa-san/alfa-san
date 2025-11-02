@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @alfa-san
 - 👀 I’m interested Data Analysis
-- 🌱 I’m currently learning Excel VBA/Macros. Link to projects [here](https://github.com/alfa-san/Excel-VBA-Projects).
+- 🌱 I’m currently working on a VBA Program in Excel [`Pig-Farm-Manager.xlsm`](https://github.com/alfa-san/Pig-Farm-Manager) -> Link to portfolio [here](https://github.com/alfa-san/Excel-VBA-Projects).
 - 📫 Email me at alfa.jamessanchez@gmail.com
 
 ## Languages
